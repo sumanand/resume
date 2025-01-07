@@ -1,5 +1,4 @@
-
-        * {
+ * {
             margin: 0;
             padding: 0;
             box-sizing: border-box;
@@ -25,6 +24,7 @@
         header {
             background: #6c63ff;
             color: #fff;
+            border-radius: 10px;
             text-align: center;
             padding: 40px 20px;
         }
