@@ -117,3 +117,26 @@
         footer a:hover {
             text-decoration: underline;
         }
+
+
+        .buttons {
+            text-align: center;
+            margin: 20px 0;
+        }
+
+        .buttons a {
+            text-decoration: none;
+            color: #fff;
+            background-color: #6c63ff;
+            padding: 10px 20px;
+            border-radius: 8px;
+            margin-top: 10px;
+            margin-right: 5px;
+            display: inline-block;
+            font-weight: bold;
+            transition: background-color 0.3s ease;
+        }
+
+        .buttons a:hover {
+            background-color: #e26110;
+        }
